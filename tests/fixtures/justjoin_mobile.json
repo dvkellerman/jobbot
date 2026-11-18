@@ -1,0 +1,1212 @@
+{
+ "data": [
+  {
+   "guid": "a23fe492-f857-4e58-87ed-8845bdec85ad",
+   "slug": "jit-team-senior-frontend-engineer-gdansk-mobile-0145dfba",
+   "title": "Senior Frontend Engineer",
+   "workplaceType": "hybrid",
+   "workingTime": "full_time",
+   "experienceLevel": "senior",
+   "category": {
+    "key": "mobile",
+    "parentKey": null
+   },
+   "city": "Gdańsk",
+   "street": ".",
+   "latitude": 54.33757,
+   "longitude": 18.71966,
+   "isRemoteInterview": false,
+   "companyName": "Jit Team",
+   "publishedAt": "2026-11-18T09:55:04.9255363Z",
+   "isOpenToHireUkrainians": false,
+   "locations": [
+    {
+     "city": "Gdańsk",
+     "street": ".",
+     "latitude": 54.33757,
+     "longitude": 18.71966,
+     "slug": "jit-team-senior-frontend-engineer-gdansk-mobile-0145dfba"
+    }
+   ],
+   "employmentTypes": [
+    {
+     "from": 18900.0,
+     "fromPerUnit": 18900.0,
+     "to": 26250.0,
+     "toPerUnit": 26250.0,
+     "currency": "PLN",
+     "currencySource": "original",
+     "type": "b2b",
+     "unit": "Month",
+     "gross": false
+    },
+    {
+     "from": 4815.0,
+     "fromPerUnit": 4815.1639448676415,
+     "to": 6688.0,
+     "toPerUnit": 6687.727701205057,
+     "currency": "USD",
+     "currencySource": "conversion",
+     "type": "b2b",
+     "unit": "Month",
+     "gross": false
+    },
+    {
+     "from": 4300.0,
+     "fromPerUnit": 4299.85212148788,
+     "to": 5972.0,
+     "toPerUnit": 5972.016835399833,
+     "currency": "EUR",
+     "currencySource": "conversion",
+     "type": "b2b",
+     "unit": "Month",
+     "gross": false
+    },
+    {
+     "from": 3954.0,
+     "fromPerUnit": 3954.3885343655156,
+     "to": 5492.0,
+     "toPerUnit": 5492.206297729883,
+     "currency": "CHF",
+     "currencySource": "conversion",
+     "type": "b2b",
+     "unit": "Month",
+     "gross": false
+    },
+    {
+     "from": 3586.0,
+     "fromPerUnit": 3586.2697102521806,
+     "to": 4981.0,
+     "toPerUnit": 4980.930153128029,
+     "currency": "GBP",
+     "currencySource": "conversion",
+     "type": "b2b",
+     "unit": "Month",
+     "gross": false
+    }
+   ],
+   "requiredSkills": [
+    {
+     "skillId": "c601bd8b-931f-460b-8f67-6e2d1f86439b",
+     "name": "React Native",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "2b7f4a32-9da5-4312-984c-4197135052f5",
+     "name": "TypeScript",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "4895711f-9a55-4045-98b3-63bbaf9ccd84",
+     "name": "AI",
+     "level": 4,
+     "group": null
+    }
+   ],
+   "niceToHaveSkills": [],
+   "languages": [],
+   "isPromoted": false,
+   "isSuperOffer": false,
+   "applyMethod": "external",
+   "applyUrl": "https://jit.traffit.com/public/form/a/802357bc63eeaaa28065663d1c52f10c4b75437671673d3d?source=justjoin.it",
+   "lastPublishedAt": "2026-10-09T09:52:59.242914Z",
+   "expiredAt": "2027-01-07T22:59:59.999999Z",
+   "companyProfileSlug": "jit-team",
+   "hybridWorkSchedule": null
+  },
+  {
+   "guid": "b101f180-9a5e-4928-ab36-2ace5201b29b",
+   "slug": "scalo-ios-developer-warszawa-mobile-71c563de",
+   "title": "iOS developer",
+   "workplaceType": "hybrid",
+   "workingTime": "freelance",
+   "experienceLevel": "mid",
+   "category": {
+    "key": "mobile",
+    "parentKey": null
+   },
+   "city": "Warszawa",
+   "street": "Centrum",
+   "latitude": 52.23584,
+   "longitude": 21.011959,
+   "isRemoteInterview": false,
+   "companyName": "SCALO",
+   "publishedAt": "2026-11-18T09:25:11.0075937Z",
+   "isOpenToHireUkrainians": false,
+   "locations": [
+    {
+     "city": "Warszawa",
+     "street": "Centrum",
+     "latitude": 52.23584,
+     "longitude": 21.011959,
+     "slug": "scalo-ios-developer-warszawa-mobile-71c563de"
+    }
+   ],
+   "employmentTypes": [
+    {
+     "from": 16000.0,
+     "fromPerUnit": 16000.0,
+     "to": 19200.0,
+     "toPerUnit": 19200.0,
+     "currency": "PLN",
+     "currencySource": "original",
+     "type": "b2b",
+     "unit": "Month",
+     "gross": false
+    },
+    {
+     "from": 3999.0,
+     "fromPerUnit": 3999.30012247856,
+     "to": 4799.0,
+     "toPerUnit": 4799.160146974272,
+     "currency": "USD",
+     "currencySource": "conversion",
+     "type": "b2b",
+     "unit": "Month",
+     "gross": false
+    },
+    {
+     "from": 3632.0,
+     "fromPerUnit": 3632.401017072288,
+     "to": 4359.0,
+     "toPerUnit": 4358.881220486745,
+     "currency": "EUR",
+     "currencySource": "conversion",
+     "type": "b2b",
+     "unit": "Month",
+     "gross": false
+    },
+    {
+     "from": 3361.0,
+     "fromPerUnit": 3360.850295124672,
+     "to": 4033.0,
+     "toPerUnit": 4033.020354149606,
+     "currency": "CHF",
+     "currencySource": "conversion",
+     "type": "b2b",
+     "unit": "Month",
+     "gross": false
+    },
+    {
+     "from": 3032.0,
+     "fromPerUnit": 3032.14069132808,
+     "to": 3639.0,
+     "toPerUnit": 3638.568829593696,
+     "currency": "GBP",
+     "currencySource": "conversion",
+     "type": "b2b",
+     "unit": "Month",
+     "gross": false
+    }
+   ],
+   "requiredSkills": [
+    {
+     "skillId": "e41e9b58-2a76-4d3d-b592-d21d61972144",
+     "name": "RxSwift",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "97a82fd9-552b-4377-b95c-5a590e2c48dc",
+     "name": "Swift",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "804faf17-e1d0-4640-846a-586443025eda",
+     "name": "SwiftUI",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "81e4934d-7942-4f0c-8076-a2ebe7f6e923",
+     "name": "REST API",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "e4980164-ca8f-46d9-b7ca-8936f669e800",
+     "name": "UIKit",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "9c2c8977-de26-4238-ae2b-7455621844e1",
+     "name": "Jira",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "42247e35-70db-4664-a3a8-5f6f0da2de9c",
+     "name": "MVVM",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "4895711f-9a55-4045-98b3-63bbaf9ccd84",
+     "name": "AI",
+     "level": 4,
+     "group": null
+    }
+   ],
+   "niceToHaveSkills": [],
+   "languages": [],
+   "isPromoted": false,
+   "isSuperOffer": true,
+   "applyMethod": "external",
+   "applyUrl": "https://scalo.traffit.com/public/form/a/be5dd8d17c875d8bd2b39745a2fe0d3e7833566732673d3d?source=justjoin.it",
+   "lastPublishedAt": "2026-11-12T09:22:25.281662Z",
+   "expiredAt": "2027-01-03T22:59:59.999Z",
+   "companyProfileSlug": null,
+   "hybridWorkSchedule": null
+  },
+  {
+   "guid": "c93aa723-f28d-4139-8f95-fd8ac22a32bb",
+   "slug": "jit-team-senior-frontend-engineer-gdansk-mobile",
+   "title": "Senior Frontend Engineer",
+   "workplaceType": "hybrid",
+   "workingTime": "full_time",
+   "experienceLevel": "senior",
+   "category": {
+    "key": "mobile",
+    "parentKey": null
+   },
+   "city": "Gdańsk",
+   "street": ".",
+   "latitude": 54.33757,
+   "longitude": 18.71966,
+   "isRemoteInterview": false,
+   "companyName": "Jit Team",
+   "publishedAt": "2026-11-18T09:15:08.7087161Z",
+   "isOpenToHireUkrainians": false,
+   "locations": [
+    {
+     "city": "Gdańsk",
+     "street": ".",
+     "latitude": 54.33757,
+     "longitude": 18.71966,
+     "slug": "jit-team-senior-frontend-engineer-gdansk-mobile"
+    }
+   ],
+   "employmentTypes": [
+    {
+     "from": 18900.0,
+     "fromPerUnit": 18900.0,
+     "to": 26250.0,
+     "toPerUnit": 26250.0,
+     "currency": "PLN",
+     "currencySource": "original",
+     "type": "b2b",
+     "unit": "Month",
+     "gross": false
+    },
+    {
+     "from": 4815.0,
+     "fromPerUnit": 4815.1639448676415,
+     "to": 6688.0,
+     "toPerUnit": 6687.727701205057,
+     "currency": "USD",
+     "currencySource": "conversion",
+     "type": "b2b",
+     "unit": "Month",
+     "gross": false
+    },
+    {
+     "from": 4300.0,
+     "fromPerUnit": 4299.85212148788,
+     "to": 5972.0,
+     "toPerUnit": 5972.016835399833,
+     "currency": "EUR",
+     "currencySource": "conversion",
+     "type": "b2b",
+     "unit": "Month",
+     "gross": false
+    },
+    {
+     "from": 3954.0,
+     "fromPerUnit": 3954.3885343655156,
+     "to": 5492.0,
+     "toPerUnit": 5492.206297729883,
+     "currency": "CHF",
+     "currencySource": "conversion",
+     "type": "b2b",
+     "unit": "Month",
+     "gross": false
+    },
+    {
+     "from": 3586.0,
+     "fromPerUnit": 3586.2697102521806,
+     "to": 4981.0,
+     "toPerUnit": 4980.930153128029,
+     "currency": "GBP",
+     "currencySource": "conversion",
+     "type": "b2b",
+     "unit": "Month",
+     "gross": false
+    }
+   ],
+   "requiredSkills": [
+    {
+     "skillId": "c601bd8b-931f-460b-8f67-6e2d1f86439b",
+     "name": "React Native",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "2b7f4a32-9da5-4312-984c-4197135052f5",
+     "name": "TypeScript",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "15240d88-25b5-4281-9d65-3a8ade5f2c2a",
+     "name": "iOS",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "2a2d3eef-d72a-455c-8501-89447a75e1f4",
+     "name": "Android",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "4895711f-9a55-4045-98b3-63bbaf9ccd84",
+     "name": "AI",
+     "level": 4,
+     "group": null
+    }
+   ],
+   "niceToHaveSkills": [],
+   "languages": [],
+   "isPromoted": false,
+   "isSuperOffer": false,
+   "applyMethod": "external",
+   "applyUrl": "https://jit.traffit.com/public/form/a/7a846f387a9b7570bff3fd826d5a08134b534a6a43673d3d?source=justjoin.it",
+   "lastPublishedAt": "2026-10-09T09:13:24.560437Z",
+   "expiredAt": "2027-01-07T22:59:59.999999Z",
+   "companyProfileSlug": "jit-team",
+   "hybridWorkSchedule": null
+  },
+  {
+   "guid": "4f61d73f-d677-47b4-977a-58ed98b353e1",
+   "slug": "h2b-group-technical-lead---real-time-voice-translation-platform-gdansk-mobile",
+   "title": "Technical Lead — Real-Time Voice Translation Platform",
+   "workplaceType": "remote",
+   "workingTime": "full_time",
+   "experienceLevel": "manager",
+   "category": {
+    "key": "mobile",
+    "parentKey": null
+   },
+   "city": "Gdańsk",
+   "street": "Abrahama 1a",
+   "latitude": 54.3927151,
+   "longitude": 18.5804391,
+   "isRemoteInterview": false,
+   "companyName": "H2B Group",
+   "publishedAt": "2026-11-18T09:10:07.8112608Z",
+   "isOpenToHireUkrainians": false,
+   "locations": [
+    {
+     "city": "Gdańsk",
+     "street": "Abrahama 1a",
+     "latitude": 54.3927151,
+     "longitude": 18.5804391,
+     "slug": "h2b-group-technical-lead---real-time-voice-translation-platform-gdansk-mobile"
+    },
+    {
+     "city": "Warszawa",
+     "street": "rondo onz",
+     "latitude": 52.2328464,
+     "longitude": 20.9985254,
+     "slug": "h2b-group-technical-lead---real-time-voice-translation-platform-warszawa-mobile"
+    }
+   ],
+   "employmentTypes": [
+    {
+     "from": null,
+     "fromPerUnit": null,
+     "to": null,
+     "toPerUnit": null,
+     "currency": "USD",
+     "currencySource": "conversion",
+     "type": "b2b",
+     "unit": "month",
+     "gross": false
+    },
+    {
+     "from": null,
+     "fromPerUnit": null,
+     "to": null,
+     "toPerUnit": null,
+     "currency": "GBP",
+     "currencySource": "conversion",
+     "type": "b2b",
+     "unit": "month",
+     "gross": false
+    },
+    {
+     "from": null,
+     "fromPerUnit": null,
+     "to": null,
+     "toPerUnit": null,
+     "currency": "CHF",
+     "currencySource": "conversion",
+     "type": "b2b",
+     "unit": "month",
+     "gross": false
+    },
+    {
+     "from": null,
+     "fromPerUnit": null,
+     "to": null,
+     "toPerUnit": null,
+     "currency": "EUR",
+     "currencySource": "conversion",
+     "type": "b2b",
+     "unit": "month",
+     "gross": false
+    },
+    {
+     "from": null,
+     "fromPerUnit": null,
+     "to": null,
+     "toPerUnit": null,
+     "currency": "PLN",
+     "currencySource": "original",
+     "type": "b2b",
+     "unit": "month",
+     "gross": false
+    }
+   ],
+   "requiredSkills": [
+    {
+     "skillId": "e07ae37c-51da-4b35-b067-0e7f95d61039",
+     "name": "Python",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "d914247d-57a0-4437-aa36-a4fec1289865",
+     "name": "WebRTC",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "c601bd8b-931f-460b-8f67-6e2d1f86439b",
+     "name": "React Native",
+     "level": 4,
+     "group": null
+    }
+   ],
+   "niceToHaveSkills": [],
+   "languages": [],
+   "isPromoted": false,
+   "isSuperOffer": false,
+   "applyMethod": "external",
+   "applyUrl": "https://system.erecruiter.pl/FormTemplates/RecruitmentForm.aspx?WebID=003eaf5ddd0f4effa16d1c1cb5682870",
+   "lastPublishedAt": "2026-10-09T09:07:04.112368Z",
+   "expiredAt": "2026-12-31T22:59:59.999999Z",
+   "companyProfileSlug": "h2b-group",
+   "hybridWorkSchedule": null
+  },
+  {
+   "guid": "f47bb2fc-164f-4c55-96f1-9f1f56c05ab4",
+   "slug": "upvanta-sp-z-o-o--senior-android-developer-praca-zdalna--wroclaw-mobile",
+   "title": "Senior Android Developer (praca zdalna)",
+   "workplaceType": "remote",
+   "workingTime": "full_time",
+   "experienceLevel": "senior",
+   "category": {
+    "key": "mobile",
+    "parentKey": null
+   },
+   "city": "Wrocław",
+   "street": "-",
+   "latitude": 51.10929480000001,
+   "longitude": 17.0386019,
+   "isRemoteInterview": false,
+   "companyName": "Upvanta sp. z o.o.",
+   "publishedAt": "2026-11-18T09:05:09.9773078Z",
+   "isOpenToHireUkrainians": false,
+   "locations": [
+    {
+     "city": "Wrocław",
+     "street": "-",
+     "latitude": 51.10929480000001,
+     "longitude": 17.0386019,
+     "slug": "upvanta-sp-z-o-o--senior-android-developer-praca-zdalna--wroclaw-mobile"
+    },
+    {
+     "city": "Kraków",
+     "street": "-",
+     "latitude": 50.06465009999999,
+     "longitude": 19.9449799,
+     "slug": "upvanta-sp-z-o-o--senior-android-developer-praca-zdalna--krakow-mobile"
+    },
+    {
+     "city": "Poznań",
+     "street": "-",
+     "latitude": 52.40567859999999,
+     "longitude": 16.9312766,
+     "slug": "upvanta-sp-z-o-o--senior-android-developer-praca-zdalna--poznan-mobile"
+    },
+    {
+     "city": "Łódź",
+     "street": "-",
+     "latitude": 51.7592924,
+     "longitude": 19.4558778,
+     "slug": "upvanta-sp-z-o-o--senior-android-developer-praca-zdalna--lodz-mobile"
+    },
+    {
+     "city": "Katowice",
+     "street": "-",
+     "latitude": 50.26489189999999,
+     "longitude": 19.0237815,
+     "slug": "upvanta-sp-z-o-o--senior-android-developer-praca-zdalna--katowice-mobile"
+    }
+   ],
+   "employmentTypes": [
+    {
+     "from": null,
+     "fromPerUnit": null,
+     "to": null,
+     "toPerUnit": null,
+     "currency": "GBP",
+     "currencySource": "conversion",
+     "type": "b2b",
+     "unit": "month",
+     "gross": false
+    },
+    {
+     "from": null,
+     "fromPerUnit": null,
+     "to": null,
+     "toPerUnit": null,
+     "currency": "EUR",
+     "currencySource": "conversion",
+     "type": "b2b",
+     "unit": "month",
+     "gross": false
+    },
+    {
+     "from": null,
+     "fromPerUnit": null,
+     "to": null,
+     "toPerUnit": null,
+     "currency": "USD",
+     "currencySource": "conversion",
+     "type": "b2b",
+     "unit": "month",
+     "gross": false
+    },
+    {
+     "from": null,
+     "fromPerUnit": null,
+     "to": null,
+     "toPerUnit": null,
+     "currency": "CHF",
+     "currencySource": "conversion",
+     "type": "b2b",
+     "unit": "month",
+     "gross": false
+    },
+    {
+     "from": null,
+     "fromPerUnit": null,
+     "to": null,
+     "toPerUnit": null,
+     "currency": "PLN",
+     "currencySource": "original",
+     "type": "b2b",
+     "unit": "month",
+     "gross": false
+    }
+   ],
+   "requiredSkills": [
+    {
+     "skillId": "2a2d3eef-d72a-455c-8501-89447a75e1f4",
+     "name": "Android",
+     "level": 3,
+     "group": null
+    },
+    {
+     "skillId": "50269ee6-f81f-4ef7-bc3f-76e0839814b9",
+     "name": "Kotlin",
+     "level": 3,
+     "group": null
+    },
+    {
+     "skillId": "c7fe4cf1-6da4-4a99-abb1-6bec33ec5dc1",
+     "name": "Java",
+     "level": 3,
+     "group": null
+    },
+    {
+     "skillId": "dfc890d3-f904-419d-8fb9-44c6cc93572c",
+     "name": "Continuous Integration",
+     "level": 3,
+     "group": null
+    },
+    {
+     "skillId": "c1de3825-a114-42b7-8645-3db0ccdcc5fe",
+     "name": "Agile",
+     "level": 1,
+     "group": null
+    },
+    {
+     "skillId": "11ff594c-ebcf-447a-b8e3-1ba3869174ca",
+     "name": "Git",
+     "level": 1,
+     "group": null
+    },
+    {
+     "skillId": "9c2c8977-de26-4238-ae2b-7455621844e1",
+     "name": "Jira",
+     "level": 1,
+     "group": null
+    },
+    {
+     "skillId": "9ba06f35-0300-4911-b8bc-b05386bfbb3e",
+     "name": "Confluence",
+     "level": 1,
+     "group": null
+    },
+    {
+     "skillId": "1034603d-9678-4671-9903-a09797089fda",
+     "name": "DevOps",
+     "level": 1,
+     "group": null
+    }
+   ],
+   "niceToHaveSkills": [],
+   "languages": [
+    {
+     "code": "en",
+     "level": "B2"
+    }
+   ],
+   "isPromoted": false,
+   "isSuperOffer": false,
+   "applyMethod": "external",
+   "applyUrl": "https://system.erecruiter.pl/FormTemplates/RecruitmentForm.aspx?WebID=f920b2abcedd4fb4ac80d14937e88dd0",
+   "lastPublishedAt": "2026-09-29T08:55:18.187263Z",
+   "expiredAt": "2026-12-28T22:59:59.999999Z",
+   "companyProfileSlug": null,
+   "hybridWorkSchedule": null
+  },
+  {
+   "guid": "dc954654-24c8-4640-8789-1f1ae7af745c",
+   "slug": "codetalent-senior-android-developer-warszawa-mobile",
+   "title": "Senior Android Developer",
+   "workplaceType": "remote",
+   "workingTime": "full_time",
+   "experienceLevel": "senior",
+   "category": {
+    "key": "mobile",
+    "parentKey": null
+   },
+   "city": "Warszawa",
+   "street": "Aleje Jerozolimskie",
+   "latitude": 52.2162074,
+   "longitude": 20.9606594,
+   "isRemoteInterview": false,
+   "companyName": "CodeTalent",
+   "publishedAt": "2026-11-18T05:35:09.9743159Z",
+   "isOpenToHireUkrainians": false,
+   "locations": [
+    {
+     "city": "Warszawa",
+     "street": "Aleje Jerozolimskie",
+     "latitude": 52.2162074,
+     "longitude": 20.9606594,
+     "slug": "codetalent-senior-android-developer-warszawa-mobile"
+    },
+    {
+     "city": "Gdańsk",
+     "street": "Aleja Grunwaldzka",
+     "latitude": 54.3942031,
+     "longitude": 18.58113,
+     "slug": "codetalent-senior-android-developer-gdansk-mobile"
+    },
+    {
+     "city": "Katowice",
+     "street": "Żelazna",
+     "latitude": 50.265502,
+     "longitude": 19.007062,
+     "slug": "codetalent-senior-android-developer-katowice-mobile"
+    },
+    {
+     "city": "Wrocław",
+     "street": "Plac Grunwaldzki",
+     "latitude": 51.1120081,
+     "longitude": 17.0614422,
+     "slug": "codetalent-senior-android-developer-wroclaw-mobile"
+    }
+   ],
+   "employmentTypes": [
+    {
+     "from": null,
+     "fromPerUnit": null,
+     "to": null,
+     "toPerUnit": null,
+     "currency": "USD",
+     "currencySource": "conversion",
+     "type": "b2b",
+     "unit": "month",
+     "gross": false
+    },
+    {
+     "from": null,
+     "fromPerUnit": null,
+     "to": null,
+     "toPerUnit": null,
+     "currency": "EUR",
+     "currencySource": "conversion",
+     "type": "b2b",
+     "unit": "month",
+     "gross": false
+    },
+    {
+     "from": null,
+     "fromPerUnit": null,
+     "to": null,
+     "toPerUnit": null,
+     "currency": "GBP",
+     "currencySource": "conversion",
+     "type": "b2b",
+     "unit": "month",
+     "gross": false
+    },
+    {
+     "from": null,
+     "fromPerUnit": null,
+     "to": null,
+     "toPerUnit": null,
+     "currency": "CHF",
+     "currencySource": "conversion",
+     "type": "b2b",
+     "unit": "month",
+     "gross": false
+    },
+    {
+     "from": null,
+     "fromPerUnit": null,
+     "to": null,
+     "toPerUnit": null,
+     "currency": "PLN",
+     "currencySource": "original",
+     "type": "b2b",
+     "unit": "month",
+     "gross": false
+    }
+   ],
+   "requiredSkills": [
+    {
+     "skillId": "d7853048-7108-4562-89d4-7f27a146c292",
+     "name": "Flutter",
+     "level": 5,
+     "group": null
+    },
+    {
+     "skillId": "43a6f9d8-64b6-4f4a-a7c8-5e8ca1603dc4",
+     "name": "Dart",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "81e4934d-7942-4f0c-8076-a2ebe7f6e923",
+     "name": "REST API",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "50269ee6-f81f-4ef7-bc3f-76e0839814b9",
+     "name": "Kotlin",
+     "level": 3,
+     "group": null
+    },
+    {
+     "skillId": "15240d88-25b5-4281-9d65-3a8ade5f2c2a",
+     "name": "iOS",
+     "level": 3,
+     "group": null
+    },
+    {
+     "skillId": "97a82fd9-552b-4377-b95c-5a590e2c48dc",
+     "name": "Swift",
+     "level": 3,
+     "group": null
+    }
+   ],
+   "niceToHaveSkills": [],
+   "languages": [
+    {
+     "code": "pl",
+     "level": "C2"
+    },
+    {
+     "code": "en",
+     "level": "B2"
+    }
+   ],
+   "isPromoted": false,
+   "isSuperOffer": false,
+   "applyMethod": "external",
+   "applyUrl": "https://aplikuj.hrappka.pl/oferta/Senior-Android--Mobile-Developer-Flutter--Dart/201391",
+   "lastPublishedAt": "2026-10-19T05:30:34.661927Z",
+   "expiredAt": "2026-12-31T22:59:59.999Z",
+   "companyProfileSlug": "codetalent",
+   "hybridWorkSchedule": null
+  },
+  {
+   "guid": "8ef8c1bc-0b36-4304-ba11-06cf0bcefe43",
+   "slug": "emagine-polska-android-developer-kotlin-multiplatform-warsaw-mobile-cd836f22",
+   "title": "Android Developer + Kotlin Multiplatform",
+   "workplaceType": "hybrid",
+   "workingTime": "full_time",
+   "experienceLevel": "senior",
+   "category": {
+    "key": "mobile",
+    "parentKey": null
+   },
+   "city": "Warsaw",
+   "street": "Centrum",
+   "latitude": 52.234979,
+   "longitude": 21.008492,
+   "isRemoteInterview": true,
+   "companyName": "emagine Polska",
+   "publishedAt": "2026-11-17T23:05:09.151739Z",
+   "isOpenToHireUkrainians": true,
+   "locations": [
+    {
+     "city": "Warsaw",
+     "street": "Centrum",
+     "latitude": 52.234979,
+     "longitude": 21.008492,
+     "slug": "emagine-polska-android-developer-kotlin-multiplatform-warsaw-mobile-cd836f22"
+    }
+   ],
+   "employmentTypes": [
+    {
+     "from": null,
+     "fromPerUnit": null,
+     "to": null,
+     "toPerUnit": null,
+     "currency": "CHF",
+     "currencySource": "conversion",
+     "type": "any",
+     "unit": "month",
+     "gross": false
+    },
+    {
+     "from": null,
+     "fromPerUnit": null,
+     "to": null,
+     "toPerUnit": null,
+     "currency": "EUR",
+     "currencySource": "conversion",
+     "type": "any",
+     "unit": "month",
+     "gross": false
+    },
+    {
+     "from": null,
+     "fromPerUnit": null,
+     "to": null,
+     "toPerUnit": null,
+     "currency": "GBP",
+     "currencySource": "conversion",
+     "type": "any",
+     "unit": "month",
+     "gross": false
+    },
+    {
+     "from": null,
+     "fromPerUnit": null,
+     "to": null,
+     "toPerUnit": null,
+     "currency": "USD",
+     "currencySource": "conversion",
+     "type": "any",
+     "unit": "month",
+     "gross": false
+    },
+    {
+     "from": null,
+     "fromPerUnit": null,
+     "to": null,
+     "toPerUnit": null,
+     "currency": "PLN",
+     "currencySource": "original",
+     "type": "any",
+     "unit": "month",
+     "gross": false
+    }
+   ],
+   "requiredSkills": [
+    {
+     "skillId": "a5533c95-c73c-470a-b481-0e6c4ca0e885",
+     "name": "Documentation",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "2db482d9-3e22-4954-af5e-c2f4ca5ce25e",
+     "name": "JUnit",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "4bfcac1e-9aa3-4fda-9e01-b22e20ec429b",
+     "name": "Testing",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "c1de3825-a114-42b7-8645-3db0ccdcc5fe",
+     "name": "Agile",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "2a2d3eef-d72a-455c-8501-89447a75e1f4",
+     "name": "Android",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "435f2bfc-4eb8-4674-a5df-041b5b6b5042",
+     "name": "Model View ViewModel (MVVM)",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "c3916776-ac17-4df3-bc24-c475ae62e0ca",
+     "name": "Mentoring",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "2c72a313-d6ab-47e5-8c49-685719bca544",
+     "name": "Request For Quotation (RFQ)",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "50269ee6-f81f-4ef7-bc3f-76e0839814b9",
+     "name": "Kotlin",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "3d72a25b-053e-4f79-b2f2-9ae4f6a14256",
+     "name": "Microservices",
+     "level": 4,
+     "group": null
+    }
+   ],
+   "niceToHaveSkills": [],
+   "languages": [
+    {
+     "code": "en",
+     "level": "B1"
+    },
+    {
+     "code": "pl",
+     "level": "B1"
+    }
+   ],
+   "isPromoted": false,
+   "isSuperOffer": false,
+   "applyMethod": "external",
+   "applyUrl": "https://portal.emagine.org/jobs/172705/android-developer-kotlin-multiplatform?utm_source=JustJoinIt",
+   "lastPublishedAt": "2026-08-24T22:17:08.225731Z",
+   "expiredAt": "2026-11-22T22:17:08.225731Z",
+   "companyProfileSlug": null,
+   "hybridWorkSchedule": null
+  },
+  {
+   "guid": "4e1f889d-9dd7-4e2e-8250-f64af4d963aa",
+   "slug": "emagine-polska-android-developer-with-java-backend-experience-warsaw-mobile-71b43685",
+   "title": "Android Developer with Java Backend Experience",
+   "workplaceType": "hybrid",
+   "workingTime": "full_time",
+   "experienceLevel": "senior",
+   "category": {
+    "key": "mobile",
+    "parentKey": null
+   },
+   "city": "Warsaw",
+   "street": "Centrum",
+   "latitude": 52.234979,
+   "longitude": 21.008492,
+   "isRemoteInterview": true,
+   "companyName": "emagine Polska",
+   "publishedAt": "2026-11-17T23:05:09.064761Z",
+   "isOpenToHireUkrainians": true,
+   "locations": [
+    {
+     "city": "Warsaw",
+     "street": "Centrum",
+     "latitude": 52.234979,
+     "longitude": 21.008492,
+     "slug": "emagine-polska-android-developer-with-java-backend-experience-warsaw-mobile-71b43685"
+    }
+   ],
+   "employmentTypes": [
+    {
+     "from": null,
+     "fromPerUnit": null,
+     "to": null,
+     "toPerUnit": null,
+     "currency": "CHF",
+     "currencySource": "conversion",
+     "type": "any",
+     "unit": "month",
+     "gross": false
+    },
+    {
+     "from": null,
+     "fromPerUnit": null,
+     "to": null,
+     "toPerUnit": null,
+     "currency": "EUR",
+     "currencySource": "conversion",
+     "type": "any",
+     "unit": "month",
+     "gross": false
+    },
+    {
+     "from": null,
+     "fromPerUnit": null,
+     "to": null,
+     "toPerUnit": null,
+     "currency": "GBP",
+     "currencySource": "conversion",
+     "type": "any",
+     "unit": "month",
+     "gross": false
+    },
+    {
+     "from": null,
+     "fromPerUnit": null,
+     "to": null,
+     "toPerUnit": null,
+     "currency": "USD",
+     "currencySource": "conversion",
+     "type": "any",
+     "unit": "month",
+     "gross": false
+    },
+    {
+     "from": null,
+     "fromPerUnit": null,
+     "to": null,
+     "toPerUnit": null,
+     "currency": "PLN",
+     "currencySource": "original",
+     "type": "any",
+     "unit": "month",
+     "gross": false
+    }
+   ],
+   "requiredSkills": [
+    {
+     "skillId": "c7fe4cf1-6da4-4a99-abb1-6bec33ec5dc1",
+     "name": "Java",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "c98fc964-5f03-488f-9e6c-3c47ebac848a",
+     "name": "SQL",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "83f28d79-0f98-4969-8356-36a0de61802d",
+     "name": "Quality Assurance (QA)",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "43488761-aa28-4d6f-9337-4e516af3ed2b",
+     "name": "Unit Testing",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "3025f9dc-4901-40a2-b1d9-6704c17d7106",
+     "name": "Backend",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "4bfcac1e-9aa3-4fda-9e01-b22e20ec429b",
+     "name": "Testing",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "56bb0a1c-c185-4210-a688-064a9ae7a3f1",
+     "name": "Scrum",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "3fe1d2f3-a9b7-4b38-ae5e-b7d54c4e57e3",
+     "name": "Microsoft Dynamics",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "c1de3825-a114-42b7-8645-3db0ccdcc5fe",
+     "name": "Agile",
+     "level": 4,
+     "group": null
+    },
+    {
+     "skillId": "2a2d3eef-d72a-455c-8501-89447a75e1f4",
+     "name": "Android",
+     "level": 4,
+     "group": null
+    }
+   ],
+   "niceToHaveSkills": [],
+   "languages": [
+    {
+     "code": "en",
+     "level": "B1"
+    },
+    {
+     "code": "pl",
+     "level": "B1"
+    }
+   ],
+   "isPromoted": false,
+   "isSuperOffer": false,
+   "applyMethod": "external",
+   "applyUrl": "https://portal.emagine.org/jobs/172094/android-developer-with-java-backend-experience?utm_source=JustJoinIt",
+   "lastPublishedAt": "2026-08-24T22:15:53.426417Z",
+   "expiredAt": "2026-11-22T22:15:53.426417Z",
+   "companyProfileSlug": null,
+   "hybridWorkSchedule": null
+  }
+ ],
+ "meta": {
+  "from": 0,
+  "totalItems": 171,
+  "prev": {
+   "cursor": null,
+   "itemsCount": 100
+  },
+  "next": {
+   "cursor": 100,
+   "itemsCount": 100
+  }
+ }
+}

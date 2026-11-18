@@ -1,0 +1,9 @@
+build/
+*.db
+*.db-journal
+# Local configuration holds the Telegram token; only the example is tracked.
+config/jobbot.conf
+.DS_Store
+/compile_commands.json
+jobbot.conf
+jobbot.db.lock

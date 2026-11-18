@@ -1,0 +1,1246 @@
+{
+ "criteriaSearch": {
+  "country": [],
+  "withSalaryMatch": [],
+  "city": [],
+  "more": [],
+  "employment": [],
+  "requirement": [
+   "iOS"
+  ],
+  "salary": [],
+  "jobPosition": [],
+  "applicationStatus": [],
+  "province": [],
+  "company": [],
+  "id": [],
+  "category": [],
+  "keyword": [],
+  "jobLanguage": [],
+  "seniority": []
+ },
+ "postings": [
+  {
+   "id": "senior-ios-developer-j-labs-software-specialist-Remote",
+   "name": "j-labs software specialist",
+   "location": {
+    "places": [
+     {
+      "city": "Remote",
+      "url": "senior-ios-developer-j-labs-software-specialist-remote"
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "city": "Kraków",
+      "street": "ul. Zabłocie 43A",
+      "postalCode": "30-701",
+      "geoLocation": {
+       "latitude": 50.04907439999999,
+       "longitude": 19.9665063
+      },
+      "url": "senior-ios-developer-j-labs-software-specialist-krakow"
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "lower-silesian",
+      "url": "senior-ios-developer-j-labs-software-specialist-lower-silesian",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "kuyavian-pomeranian",
+      "url": "senior-ios-developer-j-labs-software-specialist-kuyavian-pomeranian",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "lodz",
+      "url": "senior-ios-developer-j-labs-software-specialist-lodz",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "lublin",
+      "url": "senior-ios-developer-j-labs-software-specialist-lublin",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "lubusz",
+      "url": "senior-ios-developer-j-labs-software-specialist-lubusz",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "masovian",
+      "url": "senior-ios-developer-j-labs-software-specialist-masovian",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "opole",
+      "url": "senior-ios-developer-j-labs-software-specialist-opole",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "subcarpathian",
+      "url": "senior-ios-developer-j-labs-software-specialist-subcarpathian",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "podlaskie",
+      "url": "senior-ios-developer-j-labs-software-specialist-podlaskie",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "pomeranian",
+      "url": "senior-ios-developer-j-labs-software-specialist-pomeranian",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "silesian",
+      "url": "senior-ios-developer-j-labs-software-specialist-silesian",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "holy-cross",
+      "url": "senior-ios-developer-j-labs-software-specialist-holy-cross",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "warmian-masurian",
+      "url": "senior-ios-developer-j-labs-software-specialist-warmian-masurian",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "greater-poland",
+      "url": "senior-ios-developer-j-labs-software-specialist-greater-poland",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "west-pomeranian",
+      "url": "senior-ios-developer-j-labs-software-specialist-west-pomeranian",
+      "provinceOnly": true
+     }
+    ],
+    "fullyRemote": true,
+    "covidTimeRemotely": false,
+    "hybridDesc": "",
+    "type": "remote"
+   },
+   "posted": 1794839442627,
+   "renewed": 1794925842627,
+   "title": "Senior iOS Developer",
+   "technology": "iOS",
+   "category": "mobile",
+   "seniority": [
+    "Senior"
+   ],
+   "url": "senior-ios-developer-j-labs-software-specialist-remote",
+   "regions": [
+    "pl"
+   ],
+   "fullyRemote": false,
+   "salary": {
+    "from": 23520.0,
+    "to": 30240.0,
+    "type": "b2b",
+    "currency": "PLN",
+    "period": "Month",
+    "disclosedAt": "VISIBLE",
+    "flexibleUpperBound": false,
+    "containsSalary": "VISIBLE"
+   },
+   "flavors": [
+    "it"
+   ],
+   "topInSearch": false,
+   "highlighted": false,
+   "help4Ua": false,
+   "reference": "6XYHOXTW",
+   "searchBoost": true,
+   "onlineInterviewAvailable": true,
+   "tiles": {
+    "values": [
+     {
+      "value": "mobile",
+      "type": "category"
+     },
+     {
+      "value": "iOS",
+      "type": "requirement"
+     },
+     {
+      "value": "UIKit",
+      "type": "requirement"
+     },
+     {
+      "value": "Auto Layout",
+      "type": "requirement"
+     }
+    ]
+   }
+  },
+  {
+   "id": "senior-ios-developer-j-labs-software-specialist-Kraków",
+   "name": "j-labs software specialist",
+   "location": {
+    "places": [
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "city": "Kraków",
+      "street": "ul. Zabłocie 43A",
+      "postalCode": "30-701",
+      "geoLocation": {
+       "latitude": 50.04907439999999,
+       "longitude": 19.9665063
+      },
+      "url": "senior-ios-developer-j-labs-software-specialist-krakow"
+     },
+     {
+      "city": "Remote",
+      "url": "senior-ios-developer-j-labs-software-specialist-remote"
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "lower-silesian",
+      "url": "senior-ios-developer-j-labs-software-specialist-lower-silesian",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "kuyavian-pomeranian",
+      "url": "senior-ios-developer-j-labs-software-specialist-kuyavian-pomeranian",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "lodz",
+      "url": "senior-ios-developer-j-labs-software-specialist-lodz",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "lublin",
+      "url": "senior-ios-developer-j-labs-software-specialist-lublin",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "lubusz",
+      "url": "senior-ios-developer-j-labs-software-specialist-lubusz",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "masovian",
+      "url": "senior-ios-developer-j-labs-software-specialist-masovian",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "opole",
+      "url": "senior-ios-developer-j-labs-software-specialist-opole",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "subcarpathian",
+      "url": "senior-ios-developer-j-labs-software-specialist-subcarpathian",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "podlaskie",
+      "url": "senior-ios-developer-j-labs-software-specialist-podlaskie",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "pomeranian",
+      "url": "senior-ios-developer-j-labs-software-specialist-pomeranian",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "silesian",
+      "url": "senior-ios-developer-j-labs-software-specialist-silesian",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "holy-cross",
+      "url": "senior-ios-developer-j-labs-software-specialist-holy-cross",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "warmian-masurian",
+      "url": "senior-ios-developer-j-labs-software-specialist-warmian-masurian",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "greater-poland",
+      "url": "senior-ios-developer-j-labs-software-specialist-greater-poland",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "west-pomeranian",
+      "url": "senior-ios-developer-j-labs-software-specialist-west-pomeranian",
+      "provinceOnly": true
+     }
+    ],
+    "fullyRemote": true,
+    "covidTimeRemotely": false,
+    "hybridDesc": "",
+    "type": "remote"
+   },
+   "posted": 1794839442627,
+   "renewed": 1794925842627,
+   "title": "Senior iOS Developer",
+   "technology": "iOS",
+   "category": "mobile",
+   "seniority": [
+    "Senior"
+   ],
+   "url": "senior-ios-developer-j-labs-software-specialist-krakow",
+   "regions": [
+    "pl"
+   ],
+   "fullyRemote": false,
+   "salary": {
+    "from": 23520.0,
+    "to": 30240.0,
+    "type": "b2b",
+    "currency": "PLN",
+    "period": "Month",
+    "disclosedAt": "VISIBLE",
+    "flexibleUpperBound": false,
+    "containsSalary": "VISIBLE"
+   },
+   "flavors": [
+    "it"
+   ],
+   "topInSearch": false,
+   "highlighted": false,
+   "help4Ua": false,
+   "reference": "6XYHOXTW",
+   "searchBoost": true,
+   "onlineInterviewAvailable": true,
+   "tiles": {
+    "values": [
+     {
+      "value": "mobile",
+      "type": "category"
+     },
+     {
+      "value": "iOS",
+      "type": "requirement"
+     },
+     {
+      "value": "UIKit",
+      "type": "requirement"
+     },
+     {
+      "value": "Auto Layout",
+      "type": "requirement"
+     }
+    ]
+   }
+  },
+  {
+   "id": "senior-ios-developer-j-labs-software-specialist-lower-silesian",
+   "name": "j-labs software specialist",
+   "location": {
+    "places": [
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "lower-silesian",
+      "url": "senior-ios-developer-j-labs-software-specialist-lower-silesian",
+      "provinceOnly": true
+     },
+     {
+      "city": "Remote",
+      "url": "senior-ios-developer-j-labs-software-specialist-remote"
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "city": "Kraków",
+      "street": "ul. Zabłocie 43A",
+      "postalCode": "30-701",
+      "geoLocation": {
+       "latitude": 50.04907439999999,
+       "longitude": 19.9665063
+      },
+      "url": "senior-ios-developer-j-labs-software-specialist-krakow"
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "kuyavian-pomeranian",
+      "url": "senior-ios-developer-j-labs-software-specialist-kuyavian-pomeranian",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "lodz",
+      "url": "senior-ios-developer-j-labs-software-specialist-lodz",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "lublin",
+      "url": "senior-ios-developer-j-labs-software-specialist-lublin",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "lubusz",
+      "url": "senior-ios-developer-j-labs-software-specialist-lubusz",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "masovian",
+      "url": "senior-ios-developer-j-labs-software-specialist-masovian",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "opole",
+      "url": "senior-ios-developer-j-labs-software-specialist-opole",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "subcarpathian",
+      "url": "senior-ios-developer-j-labs-software-specialist-subcarpathian",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "podlaskie",
+      "url": "senior-ios-developer-j-labs-software-specialist-podlaskie",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "pomeranian",
+      "url": "senior-ios-developer-j-labs-software-specialist-pomeranian",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "silesian",
+      "url": "senior-ios-developer-j-labs-software-specialist-silesian",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "holy-cross",
+      "url": "senior-ios-developer-j-labs-software-specialist-holy-cross",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "warmian-masurian",
+      "url": "senior-ios-developer-j-labs-software-specialist-warmian-masurian",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "greater-poland",
+      "url": "senior-ios-developer-j-labs-software-specialist-greater-poland",
+      "provinceOnly": true
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "province": "west-pomeranian",
+      "url": "senior-ios-developer-j-labs-software-specialist-west-pomeranian",
+      "provinceOnly": true
+     }
+    ],
+    "fullyRemote": true,
+    "covidTimeRemotely": false,
+    "hybridDesc": "",
+    "type": "remote"
+   },
+   "posted": 1794839442627,
+   "renewed": 1794925842627,
+   "title": "Senior iOS Developer",
+   "technology": "iOS",
+   "category": "mobile",
+   "seniority": [
+    "Senior"
+   ],
+   "url": "senior-ios-developer-j-labs-software-specialist-lower-silesian",
+   "regions": [
+    "pl"
+   ],
+   "fullyRemote": false,
+   "salary": {
+    "from": 23520.0,
+    "to": 30240.0,
+    "type": "b2b",
+    "currency": "PLN",
+    "period": "Month",
+    "disclosedAt": "VISIBLE",
+    "flexibleUpperBound": false,
+    "containsSalary": "VISIBLE"
+   },
+   "flavors": [
+    "it"
+   ],
+   "topInSearch": false,
+   "highlighted": false,
+   "help4Ua": false,
+   "reference": "6XYHOXTW",
+   "searchBoost": true,
+   "onlineInterviewAvailable": true,
+   "tiles": {
+    "values": [
+     {
+      "value": "mobile",
+      "type": "category"
+     },
+     {
+      "value": "iOS",
+      "type": "requirement"
+     },
+     {
+      "value": "UIKit",
+      "type": "requirement"
+     },
+     {
+      "value": "Auto Layout",
+      "type": "requirement"
+     }
+    ]
+   }
+  },
+  {
+   "id": "ios-developer-connectis--Warszawa-4",
+   "name": "Connectis_",
+   "location": {
+    "places": [
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "city": "Warszawa",
+      "street": "",
+      "postalCode": "",
+      "geoLocation": {
+       "latitude": 52.2296756,
+       "longitude": 21.0122287
+      },
+      "url": "ios-developer-connectis--warszawa-4"
+     }
+    ],
+    "fullyRemote": false,
+    "covidTimeRemotely": false,
+    "hybridDesc": "",
+    "type": "hybrid"
+   },
+   "posted": 1794491441637,
+   "renewed": 1794923441637,
+   "title": "iOS Developer",
+   "technology": "iOS",
+   "category": "mobile",
+   "seniority": [
+    "Mid"
+   ],
+   "url": "ios-developer-connectis--warszawa-4",
+   "regions": [
+    "pl"
+   ],
+   "fullyRemote": false,
+   "salary": {
+    "from": 18000.0,
+    "to": 22000.0,
+    "type": "b2b",
+    "currency": "PLN",
+    "period": "Month",
+    "disclosedAt": "VISIBLE",
+    "flexibleUpperBound": false,
+    "containsSalary": "VISIBLE"
+   },
+   "flavors": [
+    "it"
+   ],
+   "topInSearch": false,
+   "highlighted": false,
+   "help4Ua": false,
+   "reference": "LCFYI0QO",
+   "searchBoost": false,
+   "onlineInterviewAvailable": false,
+   "tiles": {
+    "values": [
+     {
+      "value": "mobile",
+      "type": "category"
+     },
+     {
+      "value": "iOS",
+      "type": "requirement"
+     },
+     {
+      "value": "Swift",
+      "type": "requirement"
+     },
+     {
+      "value": "SwiftUI",
+      "type": "requirement"
+     }
+    ]
+   }
+  },
+  {
+   "id": "ios-developer-swift-swiftui-moondigo-Warszawa",
+   "name": "Moondigo Sp. z o.o.",
+   "location": {
+    "places": [
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "city": "Warszawa",
+      "street": "Rondo Daszyńskiego",
+      "postalCode": "",
+      "geoLocation": {
+       "latitude": 52.2300605,
+       "longitude": 20.9845757
+      },
+      "url": "ios-developer-swift-swiftui-moondigo-warszawa"
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "city": "Lublin",
+      "street": "",
+      "postalCode": "",
+      "geoLocation": {
+       "latitude": 51.2509458,
+       "longitude": 22.5747275
+      },
+      "url": "ios-developer-swift-swiftui-moondigo-lublin"
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "city": "Łódź",
+      "street": "",
+      "postalCode": "",
+      "geoLocation": {
+       "latitude": 51.7592924,
+       "longitude": 19.4558778
+      },
+      "url": "ios-developer-swift-swiftui-moondigo-lodz"
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "city": "Radom",
+      "street": "",
+      "postalCode": "",
+      "geoLocation": {
+       "latitude": 51.40272359999999,
+       "longitude": 21.1471333
+      },
+      "url": "ios-developer-swift-swiftui-moondigo-radom"
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "city": "Kraków",
+      "street": "",
+      "postalCode": "",
+      "geoLocation": {
+       "latitude": 50.06465009999999,
+       "longitude": 19.9449799
+      },
+      "url": "ios-developer-swift-swiftui-moondigo-krakow"
+     }
+    ],
+    "fullyRemote": false,
+    "covidTimeRemotely": false,
+    "hybridDesc": "",
+    "type": "hybrid"
+   },
+   "posted": 1794833889624,
+   "renewed": 1794920289624,
+   "title": "iOS Developer (Swift / SwiftUI)",
+   "technology": "iOS",
+   "category": "mobile",
+   "seniority": [
+    "Mid"
+   ],
+   "url": "ios-developer-swift-swiftui-moondigo-warszawa",
+   "regions": [
+    "pl"
+   ],
+   "fullyRemote": false,
+   "salary": {
+    "from": 90.0,
+    "to": 130.0,
+    "type": "b2b",
+    "currency": "PLN",
+    "period": "Month",
+    "disclosedAt": "VISIBLE",
+    "flexibleUpperBound": false,
+    "containsSalary": "VISIBLE"
+   },
+   "flavors": [
+    "it"
+   ],
+   "topInSearch": false,
+   "highlighted": false,
+   "help4Ua": false,
+   "reference": "YBKUWARO",
+   "searchBoost": false,
+   "onlineInterviewAvailable": true,
+   "tiles": {
+    "values": [
+     {
+      "value": "mobile",
+      "type": "category"
+     },
+     {
+      "value": "iOS",
+      "type": "requirement"
+     },
+     {
+      "value": "Swift",
+      "type": "requirement"
+     },
+     {
+      "value": "SwiftUI",
+      "type": "requirement"
+     }
+    ]
+   }
+  },
+  {
+   "id": "ios-developer-swift-swiftui-moondigo-Lublin",
+   "name": "Moondigo Sp. z o.o.",
+   "location": {
+    "places": [
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "city": "Lublin",
+      "street": "",
+      "postalCode": "",
+      "geoLocation": {
+       "latitude": 51.2509458,
+       "longitude": 22.5747275
+      },
+      "url": "ios-developer-swift-swiftui-moondigo-lublin"
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "city": "Warszawa",
+      "street": "Rondo Daszyńskiego",
+      "postalCode": "",
+      "geoLocation": {
+       "latitude": 52.2300605,
+       "longitude": 20.9845757
+      },
+      "url": "ios-developer-swift-swiftui-moondigo-warszawa"
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "city": "Łódź",
+      "street": "",
+      "postalCode": "",
+      "geoLocation": {
+       "latitude": 51.7592924,
+       "longitude": 19.4558778
+      },
+      "url": "ios-developer-swift-swiftui-moondigo-lodz"
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "city": "Radom",
+      "street": "",
+      "postalCode": "",
+      "geoLocation": {
+       "latitude": 51.40272359999999,
+       "longitude": 21.1471333
+      },
+      "url": "ios-developer-swift-swiftui-moondigo-radom"
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "city": "Kraków",
+      "street": "",
+      "postalCode": "",
+      "geoLocation": {
+       "latitude": 50.06465009999999,
+       "longitude": 19.9449799
+      },
+      "url": "ios-developer-swift-swiftui-moondigo-krakow"
+     }
+    ],
+    "fullyRemote": false,
+    "covidTimeRemotely": false,
+    "hybridDesc": "",
+    "type": "hybrid"
+   },
+   "posted": 1794833889624,
+   "renewed": 1794920289624,
+   "title": "iOS Developer (Swift / SwiftUI)",
+   "technology": "iOS",
+   "category": "mobile",
+   "seniority": [
+    "Mid"
+   ],
+   "url": "ios-developer-swift-swiftui-moondigo-lublin",
+   "regions": [
+    "pl"
+   ],
+   "fullyRemote": false,
+   "salary": {
+    "from": 90.0,
+    "to": 130.0,
+    "type": "b2b",
+    "currency": "PLN",
+    "period": "Month",
+    "disclosedAt": "VISIBLE",
+    "flexibleUpperBound": false,
+    "containsSalary": "VISIBLE"
+   },
+   "flavors": [
+    "it"
+   ],
+   "topInSearch": false,
+   "highlighted": false,
+   "help4Ua": false,
+   "reference": "YBKUWARO",
+   "searchBoost": false,
+   "onlineInterviewAvailable": true,
+   "tiles": {
+    "values": [
+     {
+      "value": "mobile",
+      "type": "category"
+     },
+     {
+      "value": "iOS",
+      "type": "requirement"
+     },
+     {
+      "value": "Swift",
+      "type": "requirement"
+     },
+     {
+      "value": "SwiftUI",
+      "type": "requirement"
+     }
+    ]
+   }
+  },
+  {
+   "id": "ios-developer-swift-swiftui-moondigo-Łódź",
+   "name": "Moondigo Sp. z o.o.",
+   "location": {
+    "places": [
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "city": "Łódź",
+      "street": "",
+      "postalCode": "",
+      "geoLocation": {
+       "latitude": 51.7592924,
+       "longitude": 19.4558778
+      },
+      "url": "ios-developer-swift-swiftui-moondigo-lodz"
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "city": "Warszawa",
+      "street": "Rondo Daszyńskiego",
+      "postalCode": "",
+      "geoLocation": {
+       "latitude": 52.2300605,
+       "longitude": 20.9845757
+      },
+      "url": "ios-developer-swift-swiftui-moondigo-warszawa"
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "city": "Lublin",
+      "street": "",
+      "postalCode": "",
+      "geoLocation": {
+       "latitude": 51.2509458,
+       "longitude": 22.5747275
+      },
+      "url": "ios-developer-swift-swiftui-moondigo-lublin"
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "city": "Radom",
+      "street": "",
+      "postalCode": "",
+      "geoLocation": {
+       "latitude": 51.40272359999999,
+       "longitude": 21.1471333
+      },
+      "url": "ios-developer-swift-swiftui-moondigo-radom"
+     },
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "city": "Kraków",
+      "street": "",
+      "postalCode": "",
+      "geoLocation": {
+       "latitude": 50.06465009999999,
+       "longitude": 19.9449799
+      },
+      "url": "ios-developer-swift-swiftui-moondigo-krakow"
+     }
+    ],
+    "fullyRemote": false,
+    "covidTimeRemotely": false,
+    "hybridDesc": "",
+    "type": "hybrid"
+   },
+   "posted": 1794833889624,
+   "renewed": 1794920289624,
+   "title": "iOS Developer (Swift / SwiftUI)",
+   "technology": "iOS",
+   "category": "mobile",
+   "seniority": [
+    "Mid"
+   ],
+   "url": "ios-developer-swift-swiftui-moondigo-lodz",
+   "regions": [
+    "pl"
+   ],
+   "fullyRemote": false,
+   "salary": {
+    "from": 90.0,
+    "to": 130.0,
+    "type": "b2b",
+    "currency": "PLN",
+    "period": "Month",
+    "disclosedAt": "VISIBLE",
+    "flexibleUpperBound": false,
+    "containsSalary": "VISIBLE"
+   },
+   "flavors": [
+    "it"
+   ],
+   "topInSearch": false,
+   "highlighted": false,
+   "help4Ua": false,
+   "reference": "YBKUWARO",
+   "searchBoost": false,
+   "onlineInterviewAvailable": true,
+   "tiles": {
+    "values": [
+     {
+      "value": "mobile",
+      "type": "category"
+     },
+     {
+      "value": "iOS",
+      "type": "requirement"
+     },
+     {
+      "value": "Swift",
+      "type": "requirement"
+     },
+     {
+      "value": "SwiftUI",
+      "type": "requirement"
+     }
+    ]
+   }
+  },
+  {
+   "id": "expert-ios-consultant-gft-poland-Warszawa-1",
+   "name": "GFT Poland",
+   "location": {
+    "places": [
+     {
+      "country": {
+       "code": "POL",
+       "name": "Poland"
+      },
+      "city": "Warszawa",
+      "street": "",
+      "postalCode": "",
+      "geoLocation": {
+       "latitude": 52.2296756,
+       "longitude": 21.0122287
+      },
+      "url": "expert-ios-consultant-gft-poland-warszawa-1"
+     }
+    ],
+    "fullyRemote": false,
+    "covidTimeRemotely": false,
+    "hybridDesc": "",
+    "type": "hybrid"
+   },
+   "posted": 1794482054298,
+   "renewed": 1794914054298,
+   "title": "Expert iOS Consultant",
+   "technology": "iOS",
+   "category": "mobile",
+   "seniority": [
+    "Expert"
+   ],
+   "url": "expert-ios-consultant-gft-poland-warszawa-1",
+   "regions": [
+    "pl"
+   ],
+   "fullyRemote": false,
+   "salary": {
+    "from": 25200.0,
+    "to": 34440.0,
+    "type": "b2b",
+    "currency": "PLN",
+    "period": "Month",
+    "disclosedAt": "VISIBLE",
+    "flexibleUpperBound": false,
+    "containsSalary": "VISIBLE"
+   },
+   "flavors": [
+    "it"
+   ],
+   "topInSearch": false,
+   "highlighted": false,
+   "help4Ua": false,
+   "reference": "VYJYJIET",
+   "searchBoost": false,
+   "onlineInterviewAvailable": true,
+   "tiles": {
+    "values": [
+     {
+      "value": "mobile",
+      "type": "category"
+     },
+     {
+      "value": "iOS",
+      "type": "requirement"
+     },
+     {
+      "value": "Swift",
+      "type": "requirement"
+     },
+     {
+      "value": "Objective-C",
+      "type": "requirement"
+     }
+    ]
+   }
+  }
+ ],
+ "totalCount": 428,
+ "totalPages": 3,
+ "exactMatchesPages": 3,
+ "rawSearch": "requirement=iOS",
+ "locationCriteria": false,
+ "divs": 52,
+ "additionalSearch": [],
+ "salaryMatchBlock": {
+  "offers": [],
+  "totalCount": 0,
+  "divs": 0
+ },
+ "overridenSalaryFilter": {}
+}

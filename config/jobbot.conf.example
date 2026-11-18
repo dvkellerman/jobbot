@@ -1,0 +1,237 @@
+# jobbot configuration.
+#
+# Copy it to ~/.jobbot/jobbot.conf, where jobbot looks by default (another
+# path can be given with --config). The file holds the Telegram bot token,
+# so keep it to yourself: chmod 600.
+#
+# Lines starting with '#' or ';' are comments. There are no inline comments:
+# everything after '=' is the value.
+
+[general]
+# Where the bot keeps what it has already seen. A leading ~/ is your home
+# directory; the directory must exist.
+db_path = ~/.jobbot/jobbot.db
+# How often each source is checked (5-1440). A source can override this
+# with its own interval_minutes. When a scheduler runs jobbot (see
+# termux/schedule.sh), a source is checked on the first run after its
+# interval has passed, so use multiples of the scheduler's period: with runs
+# every 15 minutes, 20 would in effect mean 30.
+poll_interval_minutes = 15
+# The same company + title seen again within this many days (for example on
+# a second board) is not sent twice. 0 turns this off.
+dedupe_days = 30
+# Consecutive failed checks of one source before you are told in Telegram.
+alert_after_failures = 3
+# debug, info, warn or error
+log_level = info
+
+[telegram]
+# Token from @BotFather. Can instead be given in the JOBBOT_TELEGRAM_TOKEN
+# environment variable, which takes precedence.
+bot_token =
+# Your numeric chat id (send a message to @userinfobot to see it). You must
+# press Start in a chat with your bot once, or it cannot message you.
+chat_id =
+
+[match]
+# A posting is sent when its title contains an include keyword and no
+# exclude keyword. Keywords are case-insensitive and match whole words or
+# phrases only: "ios" matches "iOS/Android" but not "kiosk".
+include = ios, macos, mac os, swift, swiftui, objective-c, objc, react native, react-native
+exclude = aso, qa, tester, testing, sdet, manager, designer, recruiter, marketing, sales, support, farmer, unreal, flutter
+# true also accepts a posting whose skill tags (on boards that list them)
+# contain an include keyword. That catches vague titles such as "Mobile
+# Developer" tagged Swift, but also sends "Senior Android Developer" when the
+# advert lists iOS as a nice-to-have, so expect more off-target messages.
+match_tags = false
+
+# ---- Sources -------------------------------------------------------------
+# One [source:NAME] section per board search. Settings every source accepts:
+#   type              which kind of board this is (required)
+#   enabled           false to switch the source off
+#   label, country    shown in the notification, e.g. "DOU · UA"
+#   interval_minutes  check interval for this source only
+#   allow_empty       true when an empty result is normal for this search;
+#                     otherwise an empty result counts as a failed check
+#
+# The first successful check of a source only records what is already
+# listed; you are notified about postings that appear after that.
+
+# ---- Ukraine ----
+
+[source:dou]
+type = rss
+flavor = dou
+url = https://jobs.dou.ua/vacancies/feeds/?category=iOS/macOS
+label = DOU
+country = UA
+
+[source:dou_react_native]
+type = rss
+flavor = dou
+url = https://jobs.dou.ua/vacancies/feeds/?search=React+Native
+label = DOU
+country = UA
+
+[source:djinni_ios]
+type = rss
+flavor = djinni
+url = https://djinni.co/jobs/rss/?primary_keyword=iOS
+label = Djinni
+country = UA
+
+[source:djinni_react_native]
+type = rss
+flavor = djinni
+url = https://djinni.co/jobs/rss/?primary_keyword=React+Native
+label = Djinni
+country = UA
+
+# ---- Poland ----
+
+# NoFluffJobs. 'query' is what you would type in the site's search box.
+# The site cannot list newest first, so every result page is read, up to
+# max_pages (20 jobs per page).
+[source:nofluff_ios]
+type = nofluffjobs
+query = ios
+max_pages = 5
+label = NoFluffJobs
+country = PL
+interval_minutes = 30
+
+[source:nofluff_react_native]
+type = nofluffjobs
+query = requirement='React native'
+max_pages = 5
+label = NoFluffJobs
+country = PL
+interval_minutes = 30
+
+# JustJoin.it, newest offers in a category. 'items' is how many of the newest
+# offers are read on each check (10-200). 'keywords' can narrow the search.
+[source:justjoin_mobile]
+type = justjoin
+category = mobile
+items = 100
+label = JustJoin.it
+country = PL
+
+# ---- South Africa ----
+
+# PNet. 'url' is a search results page, as copied from the browser. PNet
+# lists results by relevance and cannot list newest first, so the top
+# 'pages' pages (25 jobs each, 1-10) are read on every check; a new posting
+# PNet ranks below that is not seen. The pages are large, so these are
+# checked hourly.
+[source:pnet_ios]
+type = pnet
+url = https://www.pnet.co.za/jobs/ios-developer
+pages = 3
+label = PNet
+country = ZA
+interval_minutes = 60
+
+[source:pnet_react_native]
+type = pnet
+url = https://www.pnet.co.za/jobs/react-native-developer
+pages = 3
+label = PNet
+country = ZA
+interval_minutes = 60
+
+# ---- LinkedIn (all four countries) ----
+#
+# LinkedIn's terms of use do not allow automated access, even to the public
+# search pages read here, and LinkedIn may block your address. These
+# sources are therefore switched off; set enabled = true on each one you
+# decide to use. They are the main coverage for India.
+#   posted_within_days  only postings this recent (1-30)
+#   pages               result pages to read, 10 postings each (1-10)
+
+[source:linkedin_in]
+type = linkedin
+enabled = false
+keywords = ios developer
+location = India
+posted_within_days = 1
+pages = 5
+label = LinkedIn
+country = IN
+interval_minutes = 60
+
+[source:linkedin_za]
+type = linkedin
+enabled = false
+keywords = ios developer
+location = South Africa
+posted_within_days = 7
+pages = 2
+label = LinkedIn
+country = ZA
+interval_minutes = 60
+
+[source:linkedin_pl]
+type = linkedin
+enabled = false
+keywords = ios developer
+location = Poland
+posted_within_days = 7
+pages = 3
+label = LinkedIn
+country = PL
+interval_minutes = 60
+
+[source:linkedin_ua]
+type = linkedin
+enabled = false
+keywords = ios developer
+location = Ukraine
+posted_within_days = 7
+pages = 2
+label = LinkedIn
+country = UA
+interval_minutes = 60
+
+# ---- Adzuna (India, Poland, South Africa) ----
+#
+# Adzuna gathers adverts from many boards and offers a free API. Register at
+# https://developer.adzuna.com/ for an app id and key, then remove the '#'
+# from the sections below and fill them in.
+#   api_country   Adzuna market: in, pl, za, ...
+#   what          search words
+#   results       newest adverts read on each check (10-50)
+#   max_days_old  ignore adverts older than this (1-60)
+#
+# This source was written from Adzuna's documentation and has not been run
+# against the live API. Check it with: jobbot --check-sources
+
+#[source:adzuna_in]
+#type = adzuna
+#api_country = in
+#what = ios developer
+#app_id =
+#app_key =
+#label = Adzuna
+#country = IN
+#interval_minutes = 60
+
+#[source:adzuna_za]
+#type = adzuna
+#api_country = za
+#what = ios developer
+#app_id =
+#app_key =
+#label = Adzuna
+#country = ZA
+#interval_minutes = 60
+
+#[source:adzuna_pl]
+#type = adzuna
+#api_country = pl
+#what = ios developer
+#app_id =
+#app_key =
+#label = Adzuna
+#country = PL
+#interval_minutes = 60
