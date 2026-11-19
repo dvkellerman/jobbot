@@ -29,7 +29,7 @@ void buf_printf(buf *b, const char *fmt, ...) __attribute__((format(printf, 2, 3
 /* Returns the buffer's string (never NULL) and resets the buffer. */
 char *buf_steal(buf *b);
 
-/* Logging to stderr. */
+/* Logging to stderr. Each line starts with the local date and time. */
 enum { LOG_DEBUG = 0, LOG_INFO = 1, LOG_WARN = 2, LOG_ERROR = 3 };
 void log_set_level(int level);
 void log_msg(int level, const char *fmt, ...) __attribute__((format(printf, 2, 3)));

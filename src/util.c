@@ -142,8 +142,8 @@ void log_msg(int level, const char *fmt, ...)
     char ts[32];
     time_t now = time(NULL);
     struct tm tm;
-    gmtime_r(&now, &tm);
-    strftime(ts, sizeof ts, "%Y-%m-%dT%H:%M:%SZ", &tm);
+    localtime_r(&now, &tm);
+    strftime(ts, sizeof ts, "%Y-%m-%d  %H:%M:%S", &tm);
 
     fprintf(stderr, "%s %-5s ", ts, names[level]);
     va_list ap;

@@ -28,7 +28,7 @@ if [ -f "$LOG" ] && [ "$(wc -c <"$LOG")" -gt 1048576 ]; then
 fi
 
 if [ ! -x "$BIN" ]; then
-    echo "$(date -u +%Y-%m-%dT%H:%M:%SZ) error $BIN is missing; run make in $REPO" >>"$LOG"
+    echo "$(date '+%Y-%m-%d  %H:%M:%S') error $BIN is missing; run make in $REPO" >>"$LOG"
     exit 1
 fi
 
